@@ -5,9 +5,9 @@ const App = () => {
   return (
     <div>
       <PersonalBio 
-        name="Vani" 
-        age={32} 
-        bio="I am a web developer learning React. I love building projects!" 
+        name="manoj" 
+        age={29} 
+        bio="I am a web developer!" 
       />
     </div>
   );
